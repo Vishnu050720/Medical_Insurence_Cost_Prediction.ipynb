@@ -11,11 +11,13 @@ Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
 Jupyter Notebook
+
 🧠 Machine Learning Model
 Algorithm Used: Linear Regression
 Target Variable: Insurance Charges
 Features Used: age, sex, bmi, children, smoker, region
 Dataset Source: Medical Insurance dataset (commonly available on Kaggle)
+
 📈 Model Performance
 Metric	Value
 R² Score	0.79
